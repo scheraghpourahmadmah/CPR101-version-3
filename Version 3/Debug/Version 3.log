@@ -1,0 +1,6 @@
+﻿  main.c
+  manipulating_v3.c
+D:\Seneca\Semester 1\CPR101\Version3\Project16\Project16\manipulating_v3.c(4,44): warning C4081: expected '('; found 'newline'
+D:\Seneca\Semester 1\CPR101\Version3\Project16\Project16\manipulating_v3.c(14,7): warning C4013: 'gets' undefined; assuming extern returning int
+  Generating Code...
+  Version 3.vcxproj -> C:\Users\Shoyan\source\repos\Version 3\Debug\Version 3.exe
